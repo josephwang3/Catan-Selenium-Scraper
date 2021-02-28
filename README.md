@@ -1,0 +1,1 @@
+# Some Catan assistance scripts
