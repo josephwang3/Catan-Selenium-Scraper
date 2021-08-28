@@ -1,0 +1,734 @@
+um.pyProjects/Programming/Catan/venv/Scripts/python.exe j:/Projects/Programming/Catan/catan_scrape_seleniu
+
+DevTools listening on ws://127.0.0.1:53648/devtools/browser/2d72d95a-3fd5-4fc2-a6ac-da43f92f40a1
+[25216:28028:0130/183801.951:ERROR:device_event_log_impl.cc(211)] [18:38:01.951] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[25216:28028:0130/183801.971:ERROR:device_event_log_impl.cc(211)] [18:38:01.971] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[25216:28028:0130/183802.034:ERROR:device_event_log_impl.cc(211)] [18:38:02.034] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[25216:28028:0130/183802.052:ERROR:device_event_log_impl.cc(211)] [18:38:02.052] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[25216:28028:0130/183802.058:ERROR:device_event_log_impl.cc(211)] [18:38:02.058] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Colonist: Play Settlers of Catan Alternative - Free Online Game
+[17260:31536:0130/183813.987:ERROR:ssl_client_socket_impl.cc(960)] handshake failed; returned -1, SSL error code 1, net_error -101
+[17260:31536:0130/183814.339:ERROR:ssl_client_socket_impl.cc(960)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Done sleeping!
+
+70.02
+70.33
+
+<class 'selenium.webdriver.remote.webelement.WebElement'>
+<selenium.webdriver.remote.webelement.WebElement (session="f720c78470351c85d779c8aac4318e8b", element="31f9508c-7dba-43f0-bf89-55b7d3f2f75b")>
+
+221.06
+150.41
+
+Politi#7407 has started spectating!
+Joseph4499 placed a
+Joseph4499 turn to place
+Joseph4499 0 []
+Joseph4499 placed a
+
+Certie turn to place
+Joseph4499 0 []
+Certie 0 []
+Certie placed a
+Certie turn to place
+Joseph4499 0 []
+Certie 0 []
+Certie placed a
+
+Anse turn to place
+Joseph4499 0 []
+Certie 0 []
+Anse 0 []
+Anse placed a
+Anse turn to place
+Joseph4499 0 []
+Certie 0 []
+Anse 0 []
+Anse placed a
+
+Anse turn to place
+Joseph4499 0 []
+Certie 0 []
+Anse 0 []
+Anse placed a
+Anse turn to place
+Joseph4499 0 []
+Certie 0 []
+Anse 0 []
+Anse placed a
+
+Certie turn to place
+Joseph4499 0 []
+Certie 0 []
+Anse 0 []
+Certie placed a
+Certie turn to place
+Joseph4499 0 []
+Certie 0 []
+Anse 0 []
+Certie placed a
+
+Joseph4499 turn to place
+Joseph4499 0 []
+Certie 0 []
+Anse 0 []
+Joseph4499 placed a
+Joseph4499 turn to place
+Joseph4499 0 []
+Certie 0 []
+Anse 0 []
+Joseph4499 placed a
+
+Giving out starting resources
+Joseph4499 got:
+Joseph4499 3 ['lumber', 'ore', 'ore']
+Certie 0 []
+Anse 0 []
+Certie got:
+Joseph4499 3 ['lumber', 'ore', 'ore']
+Certie 3 ['brick', 'brick', 'lumber']
+Anse 0 []
+Anse got:
+Joseph4499 3 ['lumber', 'ore', 'ore']
+Certie 3 ['brick', 'brick', 'lumber']
+Anse 3 ['grain', 'grain', 'ore']
+
+Joseph4499 rolled:
+Joseph4499 moved :
+Joseph4499 stole from: Certie
+Joseph4499 4 ['+1', 'lumber', 'ore', 'ore']
+Certie 2 ['-1', 'brick', 'brick', 'lumber']
+Anse 3 ['grain', 'grain', 'ore']
+
+Certie rolled:
+Certie got:
+Joseph4499 4 ['+1', 'lumber', 'ore', 'ore']
+Certie 3 ['-1', 'brick', 'brick', 'lumber', 'wool']
+Anse 3 ['grain', 'grain', 'ore']
+Anse got:
+Joseph4499 4 ['+1', 'lumber', 'ore', 'ore']
+Certie 3 ['-1', 'brick', 'brick', 'lumber', 'wool']
+Anse 4 ['grain', 'grain', 'lumber', 'ore']
+Certie built a
+Joseph4499 4 ['+1', 'lumber', 'ore', 'ore']
+Certie 1 ['-1', 'brick', 'wool']
+Anse 4 ['grain', 'grain', 'lumber', 'ore']
+
+Anse rolled:
+Joseph4499 got:
+Joseph4499 5 ['+1', 'lumber', 'ore', 'ore', 'wool']
+Certie 1 ['-1', 'brick', 'wool']
+Anse 4 ['grain', 'grain', 'lumber', 'ore']
+Certie got:
+Joseph4499 5 ['+1', 'lumber', 'ore', 'ore', 'wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 4 ['grain', 'grain', 'lumber', 'ore']
+Anse got:
+Joseph4499 5 ['+1', 'lumber', 'ore', 'ore', 'wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 5 ['grain', 'grain', 'lumber', 'lumber', 'ore']
+Anse wants to give: for:
+
+Joseph4499 rolled:
+Bot is selecting where to place for Joseph4499
+Joseph4499 moved :
+Joseph4499 stole from: Anse
+Joseph4499 6 ['+1', '+1', 'lumber', 'ore', 'ore', 'wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 4 ['-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+
+Certie rolled:
+Joseph4499 got:
+Joseph4499 8 ['+1', '+1', 'grain', 'lumber', 'ore', 'ore', 'ore', 'wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 4 ['-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+
+Anse rolled:
+Joseph4499 got:
+Joseph4499 10 ['+1', '+1', 'brick', 'grain', 'lumber', 'lumber', 'ore', 'ore', 'ore', 'wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 4 ['-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+Anse wants to give: for:
+
+Joseph4499 rolled:
+Joseph4499 got:
+Joseph4499 12 ['+1', '+1', 'brick', 'brick', 'grain', 'lumber', 'lumber', 'lumber', 'ore', 'ore', 'ore', 'wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 4 ['-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+Joseph4499 built a
+Joseph4499 7 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 4 ['-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+Joseph4499 built a
+Joseph4499 5 ['+1', 'brick', 'lumber', 'lumber', 'wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 4 ['-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+Joseph4499 built a
+Joseph4499 3 ['+1', 'lumber', 'wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 4 ['-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+Joseph4499 built a
+Joseph4499 1 ['wool']
+Certie 2 ['-1', 'brick', 'wool', 'wool']
+Anse 4 ['-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+
+Certie rolled:
+Certie got:
+Joseph4499 1 ['wool']
+Certie 4 ['-1', 'brick', 'brick', 'brick', 'wool', 'wool']
+Anse 4 ['-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+
+Anse rolled:
+
+246.01
+24.95
+
+[17260:31536:0130/184207.257:ERROR:ssl_client_socket_impl.cc(960)] handshake failed; returned -1, SSL error code 1, net_error -101
+Anse moved :
+Anse stole from: Joseph4499
+Joseph4499 0 ['-1', 'wool']
+Certie 4 ['-1', 'brick', 'brick', 'brick', 'wool', 'wool']
+Anse 5 ['+1', '-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+Joseph4499 0 []
+Certie 4 ['-1', 'brick', 'brick', 'brick', 'wool', 'wool']
+Anse 5 ['+1', '-1', 'grain', 'grain', 'lumber', 'lumber', 'ore']
+Anse wants to give: for:
+Anse traded: for: with: Certie
+Joseph4499 0 []
+Certie 4 ['-1', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Anse 5 ['+1', '-1', 'brick', 'grain', 'grain', 'lumber', 'ore']
+Anse built a
+Joseph4499 0 []
+Certie 4 ['-1', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Anse 3 ['+1', '-1', 'grain', 'grain', 'ore']
+
+Joseph4499 rolled:
+Anse got:
+Joseph4499 0 []
+Certie 4 ['-1', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Anse 4 ['+1', '-1', 'grain', 'grain', 'lumber', 'ore']
+
+Certie rolled:
+Certie moved :
+Certie stole from: Anse
+Joseph4499 0 []
+Certie 5 ['+1', '-1', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Anse 3 ['+1', '-1', '-1', 'grain', 'grain', 'lumber', 'ore']
+Certie wants to give: for:
+
+Anse rolled:
+Anse moved :
+Anse stole from: Certie
+Joseph4499 0 []
+Certie 4 ['+1', '-1', '-1', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Anse 4 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'lumber', 'ore']
+Anse wants to give: for:
+
+Joseph4499 rolled:
+Certie got:
+Joseph4499 0 []
+Certie 6 ['+1', '-1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Anse 4 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'lumber', 'ore']
+Anse got:
+Joseph4499 0 []
+Certie 6 ['+1', '-1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Anse 6 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore']
+
+Certie rolled:
+Certie got:
+Joseph4499 0 []
+Certie 7 ['+1', '-1', '-1', 'brick', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Anse 6 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore']
+Anse got:
+Joseph4499 0 []
+Certie 7 ['+1', '-1', '-1', 'brick', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Anse 7 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore']
+Certie gave bank: and took
+Joseph4499 0 []
+Certie 4 ['+1', '-1', '-1', 'brick', 'grain', 'lumber', 'wool', 'wool']
+Anse 7 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore']
+
+272.99
+27.0
+
+
+Anse rolled:
+Joseph4499 got:
+Joseph4499 3 ['brick', 'brick', 'lumber']
+Certie 4 ['+1', '-1', '-1', 'brick', 'grain', 'lumber', 'wool', 'wool']
+Anse 7 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore']
+Anse wants to give: for:
+Anse traded: for: with: Certie
+Joseph4499 3 ['brick', 'brick', 'lumber']
+Certie 4 ['-1', '-1', 'brick', 'grain', 'lumber', 'lumber', 'wool', 'wool']
+Anse 7 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'grain', 'ore', 'ore', 'ore', 'ore']
+Anse built a
+Joseph4499 3 ['brick', 'brick', 'lumber']
+Certie 4 ['-1', '-1', 'brick', 'grain', 'lumber', 'lumber', 'wool', 'wool']
+Anse 2 ['+1', '+1', '-1', '-1', 'grain', 'ore']
+Joseph4499 3 ['brick', 'brick', 'lumber']
+Certie 4 ['-1', '-1', 'brick', 'grain', 'lumber', 'lumber', 'wool', 'wool']
+Anse 2 ['+1', '+1']
+
+Joseph4499 rolled:
+Joseph4499 moved :
+Joseph4499 stole from: Anse
+Joseph4499 4 ['+1', 'brick', 'brick', 'lumber']
+Certie 4 ['-1', '-1', 'brick', 'grain', 'lumber', 'lumber', 'wool', 'wool']
+Anse 1 ['+1', '+1', '-1']
+Joseph4499 4 ['+1', 'brick', 'brick', 'lumber']
+Certie 4 ['-1', '-1', 'brick', 'grain', 'lumber', 'lumber', 'wool', 'wool']
+Anse 1 ['+1']
+
+Certie rolled:
+
+296.7
+23.69
+
+Certie moved :
+Certie stole from: Joseph4499
+Joseph4499 3 ['+1', '-1', 'brick', 'brick', 'lumber']
+Certie 5 ['+1', '-1', '-1', 'brick', 'grain', 'lumber', 'lumber', 'wool', 'wool']
+Anse 1 ['+1']
+Certie built a
+Joseph4499 3 ['+1', '-1', 'brick', 'brick', 'lumber']
+Certie 1 ['+1', '-1', '-1', 'lumber', 'wool']
+Anse 1 ['+1']
+Joseph4499 3 ['+1', '-1', 'brick', 'brick', 'lumber']
+Certie 1 ['+1']
+Anse 1 ['+1']
+
+Anse rolled:
+Joseph4499 got:
+Joseph4499 5 ['+1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber']
+Certie 1 ['+1']
+Anse 1 ['+1']
+
+
+329.81
+33.12
+
+Joseph4499 rolled:
+Certie got:
+Joseph4499 5 ['+1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber']
+Certie 2 ['+1', 'wool']
+Anse 1 ['+1']
+Anse got:
+Joseph4499 5 ['+1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber']
+Certie 2 ['+1', 'wool']
+Anse 3 ['+1', 'lumber', 'lumber']
+
+Certie rolled:
+Certie got:
+Joseph4499 5 ['+1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber']
+Certie 4 ['+1', 'lumber', 'lumber', 'wool']
+Anse 3 ['+1', 'lumber', 'lumber']
+Anse got:
+Joseph4499 5 ['+1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber']
+Certie 4 ['+1', 'lumber', 'lumber', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+Certie wants to give: for:
+
+347.03
+17.22
+
+
+Anse rolled:
+Joseph4499 got:
+Joseph4499 7 ['+1', '-1', 'brick', 'brick', 'brick', 'brick', 'brick', 'brick', 'lumber']
+Certie 4 ['+1', 'lumber', 'lumber', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+
+Joseph4499 rolled:
+Joseph4499 got:
+Joseph4499 8 ['+1', '-1', 'brick', 'brick', 'brick', 'brick', 'brick', 'brick', 'lumber', 'ore']
+Certie 4 ['+1', 'lumber', 'lumber', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+
+358.77
+11.74
+
+Joseph4499 gave bank: and took
+Joseph4499 5 ['+1', '-1', 'brick', 'brick', 'grain', 'lumber', 'ore']
+Certie 4 ['+1', 'lumber', 'lumber', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+Joseph4499 built a
+Joseph4499 1 ['-1', 'brick', 'ore']
+Certie 4 ['+1', 'lumber', 'lumber', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+
+Certie rolled:
+Joseph4499 got:
+Joseph4499 3 ['-1', 'brick', 'brick', 'brick', 'ore']
+Certie 4 ['+1', 'lumber', 'lumber', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+Certie wants to give: for:
+Certie traded: for: with: Joseph4499
+Joseph4499 3 ['-1', 'brick', 'brick', 'lumber', 'ore']
+Certie 4 ['+1', 'brick', 'lumber', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+
+380.91
+22.12
+
+Certie built a
+Joseph4499 3 ['-1', 'brick', 'brick', 'lumber', 'ore']
+Certie 2 ['+1', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+
+Anse rolled:
+Joseph4499 got:
+Joseph4499 7 ['-1', 'brick', 'brick', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore']
+Certie 2 ['+1', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+
+Joseph4499 rolled:
+Joseph4499 got:
+Joseph4499 9 ['-1', 'brick', 'brick', 'brick', 'brick', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore']
+Certie 2 ['+1', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+
+392.49
+11.57
+
+Joseph4499 built a
+Joseph4499 4 ['-1', 'brick', 'brick', 'brick', 'brick', 'lumber']
+Certie 2 ['+1', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+
+Certie rolled:
+Joseph4499 got:
+Joseph4499 6 ['-1', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Certie 2 ['+1', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+Certie got:
+Joseph4499 6 ['-1', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Certie 4 ['+1', 'wool', 'wool', 'wool']
+Anse 4 ['+1', 'grain', 'lumber', 'lumber']
+Anse got:
+Joseph4499 6 ['-1', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Certie 4 ['+1', 'wool', 'wool', 'wool']
+Anse 6 ['+1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+
+Anse rolled:
+
+405.66
+13.17
+
+Anse moved :
+Anse stole from: Joseph4499
+Joseph4499 5 ['-1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Certie 4 ['+1', 'wool', 'wool', 'wool']
+Anse 7 ['+1', '+1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+Anse built a
+Joseph4499 5 ['-1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Certie 4 ['+1', 'wool', 'wool', 'wool']
+Anse 5 ['+1', 'grain', 'lumber', 'lumber', 'lumber']
+
+
+418.64
+12.98
+
+Joseph4499 rolled:
+Certie got:
+Joseph4499 5 ['-1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Certie 6 ['+1', 'lumber', 'lumber', 'wool', 'wool', 'wool']
+Anse 5 ['+1', 'grain', 'lumber', 'lumber', 'lumber']
+Anse got:
+Joseph4499 5 ['-1', '-1', 'brick', 'brick', 'brick', 'brick', 'lumber', 'wool', 'wool']
+Certie 6 ['+1', 'lumber', 'lumber', 'wool', 'wool', 'wool']
+Anse 6 ['+1', 'grain', 'grain', 'lumber', 'lumber', 'lumber']
+Joseph4499 wants to give: for:
+Joseph4499 traded: for: with: Anse
+Joseph4499 4 ['-1', '-1', 'brick', 'brick', 'brick', 'grain', 'lumber', 'wool']
+Certie 6 ['+1', 'lumber', 'lumber', 'wool', 'wool', 'wool']
+Anse 7 ['+1', 'brick', 'grain', 'lumber', 'lumber', 'lumber', 'wool']
+Joseph4499 built a
+Joseph4499 0 ['-1', '-1', 'brick', 'brick']
+Certie 6 ['+1', 'lumber', 'lumber', 'wool', 'wool', 'wool']
+Anse 7 ['+1', 'brick', 'grain', 'lumber', 'lumber', 'lumber', 'wool']
+Joseph4499 0 []
+Certie 6 ['+1', 'lumber', 'lumber', 'wool', 'wool', 'wool']
+Anse 7 ['+1', 'brick', 'grain', 'lumber', 'lumber', 'lumber', 'wool']
+
+436.01
+17.37
+
+
+Certie rolled:
+Certie moved :
+Certie stole from: Anse
+Joseph4499 0 []
+Certie 7 ['+1', '+1', 'lumber', 'lumber', 'wool', 'wool', 'wool']
+Anse 6 ['+1', '-1', 'brick', 'grain', 'lumber', 'lumber', 'lumber', 'wool']
+
+Anse rolled:
+Joseph4499 got:
+Joseph4499 5 ['grain', 'grain', 'ore', 'ore', 'ore']
+Certie 7 ['+1', '+1', 'lumber', 'lumber', 'wool', 'wool', 'wool']
+Anse 6 ['+1', '-1', 'brick', 'grain', 'lumber', 'lumber', 'lumber', 'wool']
+Anse built a
+Joseph4499 5 ['grain', 'grain', 'ore', 'ore', 'ore']
+Certie 7 ['+1', '+1', 'lumber', 'lumber', 'wool', 'wool', 'wool']
+Anse 2 ['+1', '-1', 'lumber', 'lumber']
+
+447.19
+11.16
+
+
+Joseph4499 rolled:
+Certie got:
+Joseph4499 5 ['grain', 'grain', 'ore', 'ore', 'ore']
+Certie 8 ['+1', '+1', 'lumber', 'lumber', 'wool', 'wool', 'wool', 'wool']
+Anse 2 ['+1', '-1', 'lumber', 'lumber']
+
+462.87
+15.68
+
+Joseph4499 built a
+Joseph4499 0 []
+Certie 8 ['+1', '+1', 'lumber', 'lumber', 'wool', 'wool', 'wool', 'wool']
+Anse 2 ['+1', '-1', 'lumber', 'lumber']
+
+Certie rolled:
+Joseph4499 got:
+Joseph4499 6 ['grain', 'grain', 'ore', 'ore', 'ore', 'ore']
+Certie 8 ['+1', '+1', 'lumber', 'lumber', 'wool', 'wool', 'wool', 'wool']
+Anse 2 ['+1', '-1', 'lumber', 'lumber']
+Certie gave bank: and took
+Joseph4499 6 ['grain', 'grain', 'ore', 'ore', 'ore', 'ore']
+Certie 5 ['+1', '+1', 'brick', 'lumber', 'lumber']
+Anse 2 ['+1', '-1', 'lumber', 'lumber']
+
+Anse rolled:
+Anse moved :
+
+475.36
+12.49
+
+Anse stole from: Joseph4499
+Joseph4499 5 ['-1', 'grain', 'grain', 'ore', 'ore', 'ore', 'ore']
+Certie 5 ['+1', '+1', 'brick', 'lumber', 'lumber']
+Anse 3 ['+1', '+1', '-1', 'lumber', 'lumber']
+
+Joseph4499 rolled:
+Joseph4499 built a
+Joseph4499 0 ['-1', 'ore']
+Certie 5 ['+1', '+1', 'brick', 'lumber', 'lumber']
+Anse 3 ['+1', '+1', '-1', 'lumber', 'lumber']
+Joseph4499 0 []
+Certie 5 ['+1', '+1', 'brick', 'lumber', 'lumber']
+Anse 3 ['+1', '+1', '-1', 'lumber', 'lumber']
+
+Certie rolled:
+Joseph4499 got:
+Joseph4499 2 ['grain', 'grain']
+Certie 5 ['+1', '+1', 'brick', 'lumber', 'lumber']
+Anse 3 ['+1', '+1', '-1', 'lumber', 'lumber']
+Certie got:
+Joseph4499 2 ['grain', 'grain']
+Certie 6 ['+1', '+1', 'brick', 'brick', 'lumber', 'lumber']
+Anse 3 ['+1', '+1', '-1', 'lumber', 'lumber']
+Anse got:
+Joseph4499 2 ['grain', 'grain']
+Certie 6 ['+1', '+1', 'brick', 'brick', 'lumber', 'lumber']
+Anse 4 ['+1', '+1', '-1', 'grain', 'lumber', 'lumber']
+
+
+490.87
+15.51
+
+Anse rolled:
+Anse got:
+Joseph4499 2 ['grain', 'grain']
+Certie 6 ['+1', '+1', 'brick', 'brick', 'lumber', 'lumber']
+Anse 6 ['+1', '+1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+Anse wants to give: for:
+
+Joseph4499 rolled:
+Joseph4499 moved :
+Joseph4499 stole from: Anse
+Joseph4499 3 ['+1', 'grain', 'grain']
+Certie 6 ['+1', '+1', 'brick', 'brick', 'lumber', 'lumber']
+Anse 5 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+
+
+502.83
+11.96
+
+Certie rolled:
+Certie moved :
+Certie stole from: Joseph4499
+Joseph4499 2 ['+1', '-1', 'grain', 'grain']
+Certie 7 ['+1', '+1', '+1', 'brick', 'brick', 'lumber', 'lumber']
+Anse 5 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+Certie built a
+Joseph4499 2 ['+1', '-1', 'grain', 'grain']
+Certie 3 ['+1', 'brick', 'lumber']
+Anse 5 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+
+513.33
+10.5
+
+Certie built a
+Joseph4499 2 ['+1', '-1', 'grain', 'grain']
+Certie 1 ['+1']
+Anse 5 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+
+Anse rolled:
+Joseph4499 got:
+Joseph4499 6 ['+1', '-1', 'grain', 'grain', 'wool', 'wool', 'wool', 'wool']
+Certie 1 ['+1']
+Anse 5 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+Certie got:
+Joseph4499 6 ['+1', '-1', 'grain', 'grain', 'wool', 'wool', 'wool', 'wool']
+Certie 2 ['+1', 'wool']
+Anse 5 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+
+Joseph4499 rolled:
+Certie got:
+Joseph4499 6 ['+1', '-1', 'grain', 'grain', 'wool', 'wool', 'wool', 'wool']
+Certie 5 ['+1', 'brick', 'brick', 'brick', 'wool']
+Anse 5 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber']
+Anse got:
+Joseph4499 6 ['+1', '-1', 'grain', 'grain', 'wool', 'wool', 'wool', 'wool']
+Certie 5 ['+1', 'brick', 'brick', 'brick', 'wool']
+Anse 9 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore', 'ore', 'ore', 'ore']
+Joseph4499 bought
+Joseph4499 3 ['-1', 'grain', 'wool', 'wool', 'wool']
+Certie 5 ['+1', 'brick', 'brick', 'brick', 'wool']
+Anse 9 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore', 'ore', 'ore', 'ore']
+
+530.11
+16.8
+
+
+Certie rolled:
+Certie got:
+Joseph4499 3 ['-1', 'grain', 'wool', 'wool', 'wool']
+Certie 7 ['+1', 'brick', 'brick', 'brick', 'lumber', 'lumber', 'wool']
+Anse 9 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore', 'ore', 'ore', 'ore']
+Anse got:
+Joseph4499 3 ['-1', 'grain', 'wool', 'wool', 'wool']
+Certie 7 ['+1', 'brick', 'brick', 'brick', 'lumber', 'lumber', 'wool']
+Anse 10 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore', 'ore', 'ore', 'ore']
+Certie built a
+Joseph4499 3 ['-1', 'grain', 'wool', 'wool', 'wool']
+Certie 5 ['+1', 'brick', 'brick', 'lumber', 'wool']
+Anse 10 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore', 'ore', 'ore', 'ore']
+
+Anse rolled:
+Certie got:
+Joseph4499 3 ['-1', 'grain', 'wool', 'wool', 'wool']
+Certie 7 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool']
+Anse 10 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore', 'ore', 'ore', 'ore']
+Anse got:
+Joseph4499 3 ['-1', 'grain', 'wool', 'wool', 'wool']
+Certie 7 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool']
+Anse 11 ['+1', '+1', '-1', '-1', 'grain', 'grain', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore', 'ore', 'ore', 'ore']
+
+542.65
+12.52
+
+Anse built a
+Joseph4499 3 ['-1', 'grain', 'wool', 'wool', 'wool']
+Certie 7 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool']
+Anse 6 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+Anse wants to give: for:
+
+Joseph4499 rolled:
+Certie got:
+Joseph4499 3 ['-1', 'grain', 'wool', 'wool', 'wool']
+Certie 8 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool', 'wool']
+Anse 6 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+
+555.42
+12.79
+
+Joseph4499 used
+Joseph4499 took from bank:
+Joseph4499 5 ['-1', 'brick', 'grain', 'lumber', 'wool', 'wool', 'wool']
+Certie 8 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool', 'wool']
+Anse 6 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+
+568.62
+13.2
+
+Joseph4499 built a
+Joseph4499 3 ['-1', 'grain', 'wool', 'wool', 'wool']
+Certie 8 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool', 'wool']
+Anse 6 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+
+Certie rolled:
+Joseph4499 got:
+Joseph4499 5 ['-1', 'grain', 'wool', 'wool', 'wool', 'wool', 'wool']
+Certie 8 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool', 'wool']
+Anse 6 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+Certie got:
+Joseph4499 5 ['-1', 'grain', 'wool', 'wool', 'wool', 'wool', 'wool']
+Certie 10 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool', 'wool', 'wool', 'wool']
+Anse 6 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+Anse got:
+Joseph4499 5 ['-1', 'grain', 'wool', 'wool', 'wool', 'wool', 'wool']
+Certie 10 ['+1', 'brick', 'brick', 'lumber', 'lumber', 'lumber', 'wool', 'wool', 'wool', 'wool']
+Anse 8 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+Certie gave bank: and took
+Joseph4499 5 ['-1', 'grain', 'wool', 'wool', 'wool', 'wool', 'wool']
+Certie 8 ['+1', 'brick', 'brick', 'grain', 'wool', 'wool', 'wool', 'wool']
+Anse 8 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+Certie built a
+Joseph4499 5 ['-1', 'grain', 'wool', 'wool', 'wool', 'wool', 'wool']
+Certie 4 ['brick', 'wool', 'wool', 'wool']
+Anse 8 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+
+579.98
+11.4
+
+
+Anse rolled:
+Joseph4499 got:
+Joseph4499 11 ['-1', 'grain', 'grain', 'grain', 'ore', 'ore', 'ore', 'ore', 'wool', 'wool', 'wool', 'wool', 'wool']
+Certie 4 ['brick', 'wool', 'wool', 'wool']
+Anse 8 ['+1', '+1', '-1', '-1', 'grain', 'lumber', 'lumber', 'lumber', 'lumber', 'lumber', 'lumber', 'ore']
+Anse gave bank: and took
+Joseph4499 11 ['-1', 'grain', 'grain', 'grain', 'ore', 'ore', 'ore', 'ore', 'wool', 'wool', 'wool', 'wool', 'wool']
+Certie 4 ['brick', 'wool', 'wool', 'wool']
+Anse 5 ['+1', '+1', '-1', '-1', 'brick', 'grain', 'lumber', 'lumber', 'ore']
+Anse wants to give: for:
+
+591.31
+11.25
+
+Anse traded: for: with: Joseph4499
+Joseph4499 11 ['-1', 'grain', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore', 'ore', 'wool', 'wool', 'wool', 'wool']
+Certie 4 ['brick', 'wool', 'wool', 'wool']
+Anse 5 ['+1', '+1', '-1', '-1', 'brick', 'grain', 'lumber', 'ore', 'wool']
+Anse built a
+Joseph4499 11 ['-1', 'grain', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore', 'ore', 'wool', 'wool', 'wool', 'wool']
+Certie 4 ['brick', 'wool', 'wool', 'wool']
+Anse 1 ['+1', '+1', '-1', '-1', 'ore']
+Joseph4499 11 ['-1', 'grain', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore', 'ore', 'wool', 'wool', 'wool', 'wool']
+Certie 4 ['brick', 'wool', 'wool', 'wool']
+Anse 1 ['+1']
+
+Joseph4499 rolled:
+
+602.61
+11.3
+
+Joseph4499 gave bank: and took
+Joseph4499 8 ['-1', 'brick', 'grain', 'grain', 'grain', 'lumber', 'ore', 'ore', 'ore', 'ore']
+Certie 4 ['brick', 'wool', 'wool', 'wool']
+Anse 1 ['+1']
+Joseph4499 built a
+Joseph4499 6 ['-1', 'grain', 'grain', 'grain', 'ore', 'ore', 'ore', 'ore']
+Certie 4 ['brick', 'wool', 'wool', 'wool']
+Anse 1 ['+1']
+Joseph4499 received
+
+Joseph4499 won the game!
+
+
+619.42
+16.81
