@@ -1,4 +1,6 @@
-# practice with tkinter GUI library
+# Joseph Wang
+# 1/14/2021
+# Practice program using Tkinter package for GUI
 
 from tkinter import *
 
@@ -11,8 +13,6 @@ def click():
     except:
         definition = "sorry there is no word like that please try again"
     output.insert(END, definition)
-
-
 
 # main
 window = Tk()

@@ -1,8 +1,3 @@
 __pycache__
-.vscode
-broken_files
-colonist_files
-first_whole_game_files
-venv
-Icons
-Catan Board Analyzer
+venv/
+resources/

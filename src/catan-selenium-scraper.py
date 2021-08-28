@@ -1,4 +1,6 @@
-# this program analyzes a Catan game from colonist.io to keep a continually updated analysis of each player's cards
+# Joseph Wang
+# 1/14/2021
+# An online Catan scraper bot that analyzes a Catan game from colonist.io to keep a continually updated analysis of each player's cards
 
 from selenium import webdriver
 """

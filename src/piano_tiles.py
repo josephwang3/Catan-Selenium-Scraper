@@ -1,7 +1,6 @@
 # Joseph Wang
 # 1/12/2021
-# Piano Tiles
-# Automatically detects piano tiles and plays them from this website http://tanksw.com/piano-tiles/ under Rush mode
+# Practice program to automatically detect piano tiles and play them from this website http://tanksw.com/piano-tiles/ under Rush mode
 
 from pyautogui import *
 import pyautogui

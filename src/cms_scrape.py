@@ -1,3 +1,7 @@
+# Joseph Wang
+# 1/14/2021
+# Practice scraper program using BeautifulSoup and requests packages
+
 from bs4 import BeautifulSoup
 import requests
 import csv
